@@ -1,0 +1,22 @@
+# Arquivos de ambiente
+venv/
+*.env
+
+# Arquivos de cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Arquivos de Jupyter Notebook
+.ipynb_checkpoints/
+
+# Arquivos de logs
+*.log
+
+# IDEs
+.vscode/
+.idea/
+
+# Outros
+*.DS_Store
